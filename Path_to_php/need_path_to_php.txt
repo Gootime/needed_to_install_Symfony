@@ -1,0 +1,3 @@
+---------------------Give to your OS path to php.exe---------------------
+
+Start Menu -> Control Panel -> System and Security -> System -> Advanced System Settings -> Environment Variable -> Double Click on Path -> Add the full directory path to php.exe

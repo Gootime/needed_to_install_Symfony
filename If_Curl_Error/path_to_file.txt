@@ -1,0 +1,3 @@
+-------------- Copy / Paste Into your php.ini -------------- 
+
+curl.cainfo = "path_to\cacert.pem"

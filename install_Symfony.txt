@@ -1,0 +1,8 @@
+You are now ready to install Symfony
+Copy / Paste symfony file into your project directory, open a command line here (Shift+Right Click)
+Then write : "php symfony", 
+when done you can  now create your first project.
+In command line, write : "php symfony new nameOfYourProject (optional = 2.8)"
+When finish, you can start to use Symfony
+
+
